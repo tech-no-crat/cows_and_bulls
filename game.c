@@ -44,6 +44,9 @@ char *welcome_msg =
 "For example let's say the secret code is [1 8 2 4] and you guess [1 2 3 4].\n"
 "2 numbers are correct and in the correct place, and 1 number is misplaced.\n"
 "\n"
+"You can find this program's source code at\n"
+"https://github.com/tech-no-crat/cows_and_bulls\n"
+"\n"
 "Good luck!\n";
 
 char *input_prompt_msg = 
