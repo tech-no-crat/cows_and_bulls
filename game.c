@@ -179,6 +179,7 @@ int play_game(int socket) {
         close(socket);
     }
 
+    free(code);
     return 0;
 }
 
